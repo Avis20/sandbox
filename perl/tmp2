@@ -1,0 +1,17 @@
+Файл.система	Iнодов	IИспользовано%
+udev	2007211	1%
+tmpfs	2014845	1%
+/dev/nvme0n1p2	15540224	16%
+tmpfs	2014845	1%
+tmpfs	2014845	1%
+tmpfs	2014845	1%
+/dev/loop2	62342	100%
+/dev/loop4	10775	100%
+/dev/loop3	465	100%
+/dev/loop0	463	100%
+/dev/loop7	288	100%
+/dev/loop1	27798	100%
+/dev/loop6	288	100%
+/dev/loop5	10756	100%
+/dev/nvme0n1p1	0	-
+tmpfs	2014845	1%
